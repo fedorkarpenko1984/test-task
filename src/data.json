@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "myRole": "none",
+    "author": "Жан Прокопьев",
+    "supervisor": "Иван Петров",
+    "name": "Верстка Интернет-магазина",
+    "status": "done",
+    "date": "181222"
+  },
+  {
+    "id": 2,
+    "myRole": "dev",
+    "author": "Анжела Прокопян",
+    "supervisor": "Карл Афонькин",
+    "name": "Верстка сайта доработка",
+    "status": "pending",
+    "date": "221222"
+  },
+  {
+    "id": 3,
+    "myRole": "none",
+    "author": "Иван Петров",
+    "supervisor": "Иван Петров",
+    "name": "Верстка лендинга",
+    "status": "done",
+    "date": "110123"
+  },
+  {
+    "id": 4,
+    "myRole": "lead",
+    "author": "Карл Афонькин",
+    "supervisor": "Иван Петров",
+    "name": "Лендинг: правки",
+    "status": "done",
+    "date": "150123"
+  },
+  {
+    "id": 5,
+    "myRole": "dev",
+    "author": "Жан Прокопьев",
+    "supervisor": "Жан Прокопьев",
+    "name": "Интернет-магазин: фронтенд",
+    "status": "inprocess",
+    "date": "150123"
+  },
+  {
+    "id": 6,
+    "myRole": "none",
+    "author": "Савелий Горбадзе",
+    "supervisor": "Жан Прокопьев",
+    "name": "Интернет-магазин: бекенд",
+    "status": "done",
+    "date": "180123"
+  },
+  {
+    "id": 7,
+    "myRole": "dev",
+    "author": "Сара Коннор",
+    "supervisor": "Карл Афонькин",
+    "name": "Корпоративный портал: фронт",
+    "status": "inprocess",
+    "date": "180123"
+  },
+  {
+    "id": 8,
+    "myRole": "none",
+    "author": "Жан Прокопьев",
+    "supervisor": "Сара Коннор",
+    "name": "Корпоративный портал: бек",
+    "status": "done",
+    "date": "300123"
+  },
+  {
+    "id": 9,
+    "myRole": "none",
+    "author": "Карл Афонькин",
+    "supervisor": "Иван Петров",
+    "name": "Mobile app: android",
+    "status": "pending",
+    "date": "010223"
+  },
+  {
+    "id": 11,
+    "myRole": "design",
+    "author": "Жан Прокопьев",
+    "supervisor": "Aнжела Прокопян",
+    "name": "Mobile app: iOS",
+    "status": "inprocess",
+    "date": "020223"
+  },
+  {
+    "id": 12,
+    "myRole": "none",
+    "author": "Сара Коннор",
+    "supervisor": "Жан Прокопьевв",
+    "name": "Развернуть kubernetes",
+    "status": "inprocess",
+    "date": "030223"
+  },
+  {
+    "id": 13,
+    "myRole": "lead",
+    "author": "Иван Петров",
+    "supervisor": "Муслим Гаузе",
+    "name": "Учебное приложение: android",
+    "status": "done",
+    "date": "040223"
+  },
+  {
+    "id": 14,
+    "myRole": "none",
+    "author": "Муслим Гаузе",
+    "supervisor": "Терентий Шумерский",
+    "name": "Калькулятор: iOS",
+    "status": "pending",
+    "date": "050223"
+  },
+  {
+    "id": 15,
+    "myRole": "none",
+    "author": "Сара Коннор",
+    "supervisor": "Иван Петров",
+    "name": "Учебное приложение: android - доработка",
+    "status": "pending",
+    "date": "060223"
+  },
+  {
+    "id": 16,
+    "myRole": "dev",
+    "author": "Терентий Шумерский",
+    "supervisor": "Иван Петров",
+    "name": "Рефакторинг проклятого всеми богами legacy",
+    "status": "inprocess",
+    "date": "070223"
+  }
+]
